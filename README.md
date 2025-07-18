@@ -1,3 +1,7 @@
+以下是原作者的read me
+https://github.com/qjfoidnh/BaiduPCS-Go
+
+
 # BaiduPCS-Go 百度网盘客户端(加强版)
 
 
